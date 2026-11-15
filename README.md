@@ -97,7 +97,8 @@ module tb6;
 ## Operation / Truth Table
 
 Register contents after each active clock edge (sin sequence = 1, 0, 1, 1)
-<img width="406" height="181" alt="image" src="https://github.com/user-attachments/assets/7a5c1c67-a5d5-4160-938b-3647f8630dd7" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-14 161920" src="https://github.com/user-attachments/assets/8213e066-cf34-4e10-ac4c-ce48c46e4567" />
+
 
 ## Simulation Procedure
 
